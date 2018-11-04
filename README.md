@@ -11,7 +11,7 @@ Faça tudo primariamente por amor e vontade de inovação. Seu trabalho não é 
 * **Seja atencioso**\
 Seu trabalho será usado por outras pessoas e, por sua vez, dependerá do trabalho de outras pessoas. Qualquer decisão que você tome afetará usuários e colegas, e você deve levar em conta essas consequências ao tomar decisões. Lembre-se de que somos uma comunidade que tem como objetivo e alvo: ajudar todos os tipos de pessoas.
 
-* **Seja cauteloso**
+* **Seja cauteloso**\
 Se você pertence a essa organização é porque você é uma peça fundamental para a movimentação dela, o que significa que sem você a organização pode sofrer consequencias. Sua conta deve ser somente sua e sua. Tenha uma senha segura em mente, use logins de duas etapas, não comprometa sua máquina e não comprometa seu acesso a esta conta como membro da organização. É sua responsabilidade lembrar-se que você é uma parte dessa organização, por isso, o acesso da sua conta por alguem malicioso com certeza será prejudicial a organização!
 
 * **Seja respeitoso**\
