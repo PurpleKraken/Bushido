@@ -23,7 +23,7 @@ Lembre-se que a Purple Kraken é baseada em Meritocracia. Aqueles que mais contr
 
 ## Creditos
 Este documento foi escrito e revisado por:<br>
-<strong>FAURA, Guilherme Almino Carvalho.</strong> Disponível em: &lt;https://github.com/GuilhermeIsNotUnix&gt;.
+<strong>FAURA, G. A. C.</strong> Disponível em: &lt;https://github.com/GuilhermeIsNotUnix&gt;.
 
 ## Referências
 UBUNTU. Disponível em: &lt;https://www.ubuntu.com/community/code-of-conduct&gt;. Acesso em: 15 jun. 2019.<br>
