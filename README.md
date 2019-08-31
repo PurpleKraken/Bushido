@@ -23,8 +23,8 @@ Lembre-se que a Purple Kraken é baseada em Meritocracia. Aqueles que mais contr
 
 ## Créditos
 Este documento foi escrito e revisado por:<br>
-<strong>FAURA, G. A. C.</strong> Disponível em: &lt;https://github.com/GuilhermeIsNotUnix&gt;.
+<strong>FAURA, G. A. C.</strong> Disponível em: &lt;https://github.com/PurpleKraken/Bushido&gt;.
 
 ## Referências
-UBUNTU. Disponível em: &lt;https://www.ubuntu.com/community/code-of-conduct&gt;. Acesso em: 15 jun. 2019.<br>
-TODO GROUP. Disponível em: &lt;https://github.com/todogroup/opencodeofconduct&gt;. Acesso em: 15 jun. 2019.
+UBUNTU. Disponível em: &lt;https://www.ubuntu.com/community/code-of-conduct&gt;. Acesso em: 31 ago. 2019.<br>
+TODO GROUP. Disponível em: &lt;https://github.com/todogroup/opencodeofconduct&gt;. Acesso em: 31 ago. 2019.
