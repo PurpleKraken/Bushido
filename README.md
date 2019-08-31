@@ -1,7 +1,7 @@
 # Bushido
 Código de Conduta da Purple Kraken (para todos)
 
-O <strong>Bushido</strong> geral rege como um <strong>documento universal</strong> que descreve como deve ser a filosofia da Organização em relação aos membros e usuarios da Purple Kraken, seja em público, como em privado.
+O <strong>Bushido</strong> geral rege como um <strong>documento universal</strong> que descreve como deve ser a filosofia de organização e comportamento em relação aos membros e usuarios da Purple Kraken, seja em público, como em privado.
 
 Queremos uma comunidade produtiva, feliz e ágil que possa acolher novas ideias de um campo complexo, melhorar todos os processos a cada ano e fomentar a colaboração entre times com interesses e habilidades muito diferentes com o trabalho em equipe.
 
@@ -19,9 +19,9 @@ Nem todos concordamos o tempo todo, mas desacordos não são desculpa para o mau
 <strong>Quando discordamos</strong>, tentamos entender porque: Desentendimentos, tanto sociais quanto técnicos, acontecem o tempo todo. É importante que resolvamos discordâncias e opiniões divergentes de forma construtiva. Lembre-se que somos diferentes. A força de nossa comunidade vem de sua diversidade, pessoas de uma ampla gama de origens. Pessoas diferentes têm diferentes perspectivas sobre os problemas. Ser incapaz de entender por que alguém tem um ponto de vista não significa que ele esteja errado. Não se esqueça de que é humano errar e culpar um ao outro não nos leva a lugar nenhum. Em vez disso, concentre-se em ajudar a solucionar problemas e aprender com os erros.
 
 * <strong>Seja justo</strong><br>
-Lembre-se que a Purple Kraken é baseada em Meritocracia. Aqueles que mais contribuirem, mais terão respectivos creditos. Seja compreensivo nisso. Todos receberão o que merecem baseado em seus esforços em um certo projeto.
+Lembre-se que a Purple Kraken é baseada em Meritocracia. Aqueles que mais contribuirem, mais terão respectivos créditos. Seja compreensivo nisso. Todos receberão o que merecem baseado em seus esforços em um certo projeto.
 
-## Creditos
+## Créditos
 Este documento foi escrito e revisado por:<br>
 <strong>FAURA, G. A. C.</strong> Disponível em: &lt;https://github.com/GuilhermeIsNotUnix&gt;.
 
